@@ -5,7 +5,7 @@ SQL dosyasını sunucunuza yüklemeyi unutmayın.
 
 
 
-inc klasörü içerisinde bulunana vt.php dosyasını kendi sunucunuza göre düzenleyin.
+inc klasörü içerisinde bulunan vt.php dosyasını kendi sunucunuza göre düzenleyin.
 admin/inc klasörü içerisinde bulunan ayar.php dosyasını kendi sunucunuza göre düzenleyin.
 
 
